@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/maritech/static/css/main.6bf937ba.chunk.css",
-    "main.js": "/maritech/static/js/main.29474828.chunk.js",
-    "main.js.map": "/maritech/static/js/main.29474828.chunk.js.map",
+    "main.css": "/maritech/static/css/main.9574b9a0.chunk.css",
+    "main.js": "/maritech/static/js/main.9a85aac5.chunk.js",
+    "main.js.map": "/maritech/static/js/main.9a85aac5.chunk.js.map",
     "runtime-main.js": "/maritech/static/js/runtime-main.b0509b07.js",
     "runtime-main.js.map": "/maritech/static/js/runtime-main.b0509b07.js.map",
     "static/js/2.2c2c481d.chunk.js": "/maritech/static/js/2.2c2c481d.chunk.js",
@@ -10,14 +10,15 @@
     "static/js/3.81670497.chunk.js": "/maritech/static/js/3.81670497.chunk.js",
     "static/js/3.81670497.chunk.js.map": "/maritech/static/js/3.81670497.chunk.js.map",
     "index.html": "/maritech/index.html",
-    "static/css/main.6bf937ba.chunk.css.map": "/maritech/static/css/main.6bf937ba.chunk.css.map",
+    "static/css/main.9574b9a0.chunk.css.map": "/maritech/static/css/main.9574b9a0.chunk.css.map",
     "static/js/2.2c2c481d.chunk.js.LICENSE.txt": "/maritech/static/js/2.2c2c481d.chunk.js.LICENSE.txt",
+    "static/media/charts.adedc747.svg": "/maritech/static/media/charts.adedc747.svg",
     "static/media/man.8b6ebf9a.png": "/maritech/static/media/man.8b6ebf9a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b0509b07.js",
     "static/js/2.2c2c481d.chunk.js",
-    "static/css/main.6bf937ba.chunk.css",
-    "static/js/main.29474828.chunk.js"
+    "static/css/main.9574b9a0.chunk.css",
+    "static/js/main.9a85aac5.chunk.js"
   ]
 }
