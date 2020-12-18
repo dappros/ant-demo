@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/maritech/static/css/main.5e65292c.chunk.css",
-    "main.js": "/maritech/static/js/main.22b163d4.chunk.js",
-    "main.js.map": "/maritech/static/js/main.22b163d4.chunk.js.map",
+    "main.js": "/maritech/static/js/main.9915d5a4.chunk.js",
+    "main.js.map": "/maritech/static/js/main.9915d5a4.chunk.js.map",
     "runtime-main.js": "/maritech/static/js/runtime-main.b0509b07.js",
     "runtime-main.js.map": "/maritech/static/js/runtime-main.b0509b07.js.map",
     "static/js/2.2c2c481d.chunk.js": "/maritech/static/js/2.2c2c481d.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b0509b07.js",
     "static/js/2.2c2c481d.chunk.js",
     "static/css/main.5e65292c.chunk.css",
-    "static/js/main.22b163d4.chunk.js"
+    "static/js/main.9915d5a4.chunk.js"
   ]
 }
