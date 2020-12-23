@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/maritech/static/css/main.099701bc.chunk.css",
-    "main.js": "/maritech/static/js/main.b775bdbf.chunk.js",
-    "main.js.map": "/maritech/static/js/main.b775bdbf.chunk.js.map",
-    "runtime-main.js": "/maritech/static/js/runtime-main.4d012360.js",
-    "runtime-main.js.map": "/maritech/static/js/runtime-main.4d012360.js.map",
-    "static/js/2.c3645e76.chunk.js": "/maritech/static/js/2.c3645e76.chunk.js",
-    "static/js/2.c3645e76.chunk.js.map": "/maritech/static/js/2.c3645e76.chunk.js.map",
-    "static/js/3.1690a438.chunk.js": "/maritech/static/js/3.1690a438.chunk.js",
-    "static/js/3.1690a438.chunk.js.map": "/maritech/static/js/3.1690a438.chunk.js.map",
+    "main.css": "/maritech/static/css/main.23ad4251.chunk.css",
+    "main.js": "/maritech/static/js/main.0b91bd49.chunk.js",
+    "main.js.map": "/maritech/static/js/main.0b91bd49.chunk.js.map",
+    "runtime-main.js": "/maritech/static/js/runtime-main.cd9a9b38.js",
+    "runtime-main.js.map": "/maritech/static/js/runtime-main.cd9a9b38.js.map",
+    "static/js/2.a85f0107.chunk.js": "/maritech/static/js/2.a85f0107.chunk.js",
+    "static/js/2.a85f0107.chunk.js.map": "/maritech/static/js/2.a85f0107.chunk.js.map",
+    "static/js/3.ed8e439b.chunk.js": "/maritech/static/js/3.ed8e439b.chunk.js",
+    "static/js/3.ed8e439b.chunk.js.map": "/maritech/static/js/3.ed8e439b.chunk.js.map",
     "index.html": "/maritech/index.html",
-    "static/css/main.099701bc.chunk.css.map": "/maritech/static/css/main.099701bc.chunk.css.map",
-    "static/js/2.c3645e76.chunk.js.LICENSE.txt": "/maritech/static/js/2.c3645e76.chunk.js.LICENSE.txt",
+    "static/css/main.23ad4251.chunk.css.map": "/maritech/static/css/main.23ad4251.chunk.css.map",
+    "static/js/2.a85f0107.chunk.js.LICENSE.txt": "/maritech/static/js/2.a85f0107.chunk.js.LICENSE.txt",
     "static/media/charts.adedc747.svg": "/maritech/static/media/charts.adedc747.svg",
     "static/media/man.8b6ebf9a.png": "/maritech/static/media/man.8b6ebf9a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d012360.js",
-    "static/js/2.c3645e76.chunk.js",
-    "static/css/main.099701bc.chunk.css",
-    "static/js/main.b775bdbf.chunk.js"
+    "static/js/runtime-main.cd9a9b38.js",
+    "static/js/2.a85f0107.chunk.js",
+    "static/css/main.23ad4251.chunk.css",
+    "static/js/main.0b91bd49.chunk.js"
   ]
 }
