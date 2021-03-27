@@ -1,9 +1,18 @@
 import React, { useEffect } from 'react';
-import { Button, CssBaseline, TextField, FormControlLabel, Checkbox, Paper, Box, Grid, Typography } from '@material-ui/core/';
+import {
+    Button,
+    CssBaseline,
+    TextField,
+    FormControlLabel,
+    Checkbox,
+    Paper,
+    Box,
+    Grid,
+    Typography,
+} from '@material-ui/core/';
 import { Link as LinkMU } from '@material-ui/core/';
 import { makeStyles } from '@material-ui/core/styles';
 import { Link } from 'react-router-dom';
-
 
 const useStyles = makeStyles((theme) => ({
     root: {
@@ -12,11 +21,10 @@ const useStyles = makeStyles((theme) => ({
     image: {
         backgroundImage: 'url(https://i.ibb.co/tHKwW7V/sideLogo.png)',
         backgroundRepeat: 'no-repeat',
-        backgroundColor:
-            theme.palette.type === 'light' ? theme.palette.grey[50] : theme.palette.grey[900],
+        backgroundColor: theme.palette.type === 'light' ? theme.palette.grey[50] : theme.palette.grey[900],
         backgroundSize: '500px',
         backgroundPosition: 'center',
-        display: 'flex'
+        display: 'flex',
     },
     paper: {
         margin: theme.spacing(18, 12),
@@ -38,7 +46,7 @@ const useStyles = makeStyles((theme) => ({
     },
     subtitle: {
         color: '#9a99aa',
-        fontSize: '16px'
+        fontSize: '16px',
     },
     input: {
         width: '100%',
@@ -55,38 +63,38 @@ const useStyles = makeStyles((theme) => ({
         height: '40px',
         display: 'block',
         color: '#fff',
-        textDecoration: 'none'
-    }
+        textDecoration: 'none',
+    },
 }));
 
 export default function SignInSide({ setActiveAccount }) {
-
     useEffect(() => {
-        alert(`Dear User,\n\nThis platform demo is best supported by Chrome and Microsoft Edge web browsers. Experience may be altered when using other service providers.\n\nThank you,\nANT Team`)
-    }, [])
+        alert(
+            `Dear User,\n\nThis platform demo is best supported by Chrome and Microsoft Edge web browsers. Experience may be altered when using other service providers.\n\nThank you,\nANT Team`,
+        );
+    }, []);
 
     const classes = useStyles();
 
-
     const subgitHandler = () => {
-        const emailInput = document.getElementById('email')
+        const emailInput = document.getElementById('email');
         //const emailPassword = document.getElementById('password')
 
         if (emailInput.value.toLowerCase().includes('alice')) {
-            setActiveAccount('Alice')
+            setActiveAccount('Alice');
         }
 
         if (emailInput.value.toLowerCase().includes('bob')) {
-            setActiveAccount('Bob')
+            setActiveAccount('Bob');
         }
-    }
+    };
 
     return (
         <Grid container component="main" className={classes.root}>
             <CssBaseline />
             <Grid item xs={false} sm={6} md={6} className={classes.image}>
-                <Grid item xs={false} className={classes.logoTitle} >
-                    <Typography component="h2" variant="h2" className={classes.title} >
+                <Grid item xs={false} className={classes.logoTitle}>
+                    <Typography component="h2" variant="h2" className={classes.title}>
                         Your Company Name and Logo
                     </Typography>
                 </Grid>
@@ -100,7 +108,13 @@ export default function SignInSide({ setActiveAccount }) {
                         Welcome back! Please login to your account.
                     </Typography>
                     <form className={classes.form} noValidate>
-                        <TextField id="email" label="Email" type="" className={classes.input} style={{ border: 'none' }} />
+                        <TextField
+                            id="email"
+                            label="Email"
+                            type=""
+                            className={classes.input}
+                            style={{ border: 'none' }}
+                        />
                         <TextField id="password" label="Password" type="password" className={classes.input} />
                         <Grid justify="space-between" container>
                             <Grid item xs={false}>
@@ -116,27 +130,24 @@ export default function SignInSide({ setActiveAccount }) {
                             </Grid>
                         </Grid>
                         <div>
-                            <Link to="/maritech/dashboard">
+                            <Link to="/ant-demo/dashboard">
                                 <Button
-                                    color='secondary'
+                                    color="secondary"
                                     type="submit"
                                     variant="contained"
                                     className={classes.submit}
                                     onClick={() => subgitHandler()}
                                 >
                                     Login
-                            </Button>
+                                </Button>
                             </Link>
-
 
                             <button id="customBtn" className="customGPlusSignIn">
                                 <span className="icon"></span>
                                 <span className="buttonText">Sign in with Google</span>
                             </button>
-
                         </div>
-                        <Box mt={5}>
-                        </Box>
+                        <Box mt={5}></Box>
                     </form>
                 </div>
             </Grid>
