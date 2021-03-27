@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/maritech/static/css/main.1e8df173.chunk.css",
-    "main.js": "/maritech/static/js/main.94e5b45f.chunk.js",
-    "main.js.map": "/maritech/static/js/main.94e5b45f.chunk.js.map",
-    "runtime-main.js": "/maritech/static/js/runtime-main.cdab87e4.js",
-    "runtime-main.js.map": "/maritech/static/js/runtime-main.cdab87e4.js.map",
-    "static/js/2.9b3436ec.chunk.js": "/maritech/static/js/2.9b3436ec.chunk.js",
-    "static/js/2.9b3436ec.chunk.js.map": "/maritech/static/js/2.9b3436ec.chunk.js.map",
-    "static/js/3.79ce8f1a.chunk.js": "/maritech/static/js/3.79ce8f1a.chunk.js",
-    "static/js/3.79ce8f1a.chunk.js.map": "/maritech/static/js/3.79ce8f1a.chunk.js.map",
-    "index.html": "/maritech/index.html",
-    "static/css/main.1e8df173.chunk.css.map": "/maritech/static/css/main.1e8df173.chunk.css.map",
-    "static/js/2.9b3436ec.chunk.js.LICENSE.txt": "/maritech/static/js/2.9b3436ec.chunk.js.LICENSE.txt",
-    "static/media/charts.b672ed66.png": "/maritech/static/media/charts.b672ed66.png"
+    "main.css": "/ant-demo/static/css/main.3dcc4495.chunk.css",
+    "main.js": "/ant-demo/static/js/main.44c9fa11.chunk.js",
+    "main.js.map": "/ant-demo/static/js/main.44c9fa11.chunk.js.map",
+    "runtime-main.js": "/ant-demo/static/js/runtime-main.a7de96b7.js",
+    "runtime-main.js.map": "/ant-demo/static/js/runtime-main.a7de96b7.js.map",
+    "static/js/2.9b3436ec.chunk.js": "/ant-demo/static/js/2.9b3436ec.chunk.js",
+    "static/js/2.9b3436ec.chunk.js.map": "/ant-demo/static/js/2.9b3436ec.chunk.js.map",
+    "static/js/3.79ce8f1a.chunk.js": "/ant-demo/static/js/3.79ce8f1a.chunk.js",
+    "static/js/3.79ce8f1a.chunk.js.map": "/ant-demo/static/js/3.79ce8f1a.chunk.js.map",
+    "index.html": "/ant-demo/index.html",
+    "static/css/main.3dcc4495.chunk.css.map": "/ant-demo/static/css/main.3dcc4495.chunk.css.map",
+    "static/js/2.9b3436ec.chunk.js.LICENSE.txt": "/ant-demo/static/js/2.9b3436ec.chunk.js.LICENSE.txt",
+    "static/media/charts.b672ed66.png": "/ant-demo/static/media/charts.b672ed66.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cdab87e4.js",
+    "static/js/runtime-main.a7de96b7.js",
     "static/js/2.9b3436ec.chunk.js",
-    "static/css/main.1e8df173.chunk.css",
-    "static/js/main.94e5b45f.chunk.js"
+    "static/css/main.3dcc4495.chunk.css",
+    "static/js/main.44c9fa11.chunk.js"
   ]
 }
