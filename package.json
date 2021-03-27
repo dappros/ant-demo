@@ -2,7 +2,7 @@
     "name": "test",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://miltosh.github.io/ant-demo/",
+    "homepage": "https://dappros.github.io/ant-demo/",
     "dependencies": {
         "@material-ui/core": "^4.11.2",
         "@material-ui/icons": "^4.11.2",
